@@ -5,3 +5,5 @@ HeatWater
 FilterCoffee
 HeatMilk
 Pour
+
+drinkcoffee
